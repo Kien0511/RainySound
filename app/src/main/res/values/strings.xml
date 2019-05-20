@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rainy Sound</string>
+    <string name="rainySound">Âm thanh của mưa</string>
+    <string name="perfectStorm">Cơn bão hoàn hảo</string>
+    <string name="rainyOnWindow">Mưa trên cửa sổ</string>
+    <string name="rainyOnLeaves">Mưa trên lá</string>
+    <string name="slightlyRain">Mưa nhẹ</string>
+    <string name="afternoonLake">Hồ chiều</string>
+    <string name="rainyOnTheRoof">Mưa trên mái</string>
+    <string name="rainyOnTheStreet">Mưa trên hè phố</string>
+    <string name="peacefulBeach">Bãi biển bình yên</string>
+    <string name="sufaceLakeIsCalm" >Mặt hồ êm ả</string>
+    <string name="rainyOnTheTent">Mưa trên lều</string>
+    <string name="oceanRainy">Mưa đại dương</string>
+    <string name="rainyAfternoon">Chiều mưa</string>
+    <string name="thunderstorms">Giông bão</string>
+    <string name="music">Âm nhạc</string>
+    <string name="delete">Xóa âm thanh</string>
+    <string name="isPlaying">Đang chơi</string>
+    <string name="isPaused">Đã tạm dừng</string>
+    <string name="turnOffAfter">Tắt âm thanh sau:</string>
+    <string name="hour">giờ</string>
+    <string name="twoDots">:</string>
+    <string name="minute">phút</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="zero">0</string>
+</resources>
